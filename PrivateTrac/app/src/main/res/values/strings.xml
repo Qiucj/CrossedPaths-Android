@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">PrivateTrac</string>
+    <string name="concerned">Concerned</string>
+    <string name="confirmed">Confirmed</string>
+    <string name="clear_history">Clear\n History</string>
+    <string name="send_data">Send\n Data</string>
+    <string name="welcome_to_6_feet">Welcome to PrivateTrac</string>
+    <string name="remove_upddates">Remove Updates</string>
+    <string name="updates_location">Updates Location</string>
+    <string name="check_database">Check\n Database</string>
+    <string name="contactUs">Contact\n Us</string>
+    <string name="emoji">&#10067;\n</string>
+    <string name="info">  provides anonymous location sharing while prioritizing data privacy.\n</string>
+    <string name="info_2">CHECK DATABASE works, but the database is hypothetical. All warnings should be ignored. \n</string>
+    <string name="info_3">After the official launch with partners, CHECK DATABASE will prompt you to update your app.\n\nWhen you are satisfied with its data privacy and would like to see this app used for public services in Michigan, Please contact Governer Whitmer to help its official launch.</string>
+    <string name="privacy">Data Privacy Explanation</string>
+    <string name="info2">Data privacy is a natural concern for location monitoring/sharing apps.  PrivateTrac prioritizes data privacy employing multiple strategies:\n\n1. All data is stored locally on your phone. No one, not even other apps on your phone, can access it. Sharing data with administrators is voluntary. Further data privacy protocols will be provided before you decide to share.\n\n2. You have complete control over when to collect data. Data is automatically deleted after a week. You can delete all data at any time.\n\n3. Data is encrypted before stored locally on your phone. The encryption algorithm, SHA-256, is irreversible.  Stored data cannot be traced back to a location or time.\n\n4. Decentralized model lets your phone download the database and compare on the phone. No one knows your location contact results.\n\n5 For transparency, PrivateTrac\'s code is disclosed on an Open Source GitHub Repo at https://github.com/PrivateTrac/PrivateTrac. You can visit the repository to verify PrivateTrac does exactly as described and handles your data appropriately.\n\n6 If you still have reservations on data privacy, a path you can take is to start updating location only when you anticipate meeting strangers, such as leaving your home or working. At other times, you can turn off the location updates. \n</string>
+    <string name="info2_2">Once satisfied with its data privacy, please share with friends and press the envelope icon below to email public officials and Governor Whitmer to advocate for the adoption of this app in public location based services.</string>
+    <string name="policyTitle">Privacy Policy\n</string>
+    <string name="policy">\nEffective as of July 18, 2020.\n\nEffective as of July 18, 2020. \"Privacy Policy\" describes the privacy practices of PrivateTrac Foundation (\"PrivateTrac,\" \"we,\" \"us,\" or \"our\") in
+        connection with the PrivateTrac GPS mobile application (“app”). This Privacy Policy also describes the rights and choices available to individuals with respect to their information when using the app.
+        \n\nABOUT PRIVATETRAC\n\nPrivateTrac GPS is an app for the purposes of anonymously and securely sharing location history with other users of the app.
+        PrivateTrac has and continues to develop software benefits from such sharing strategy.
+        \nCertian situations may benefit from knowing who is in close contact with someone of particular concern. PrivateTrac GPS allows end-users to store their untraceable, made possible by
+        a one-way hash function, digital signatures of timestamped locations locally on the respective end user\'s mobile device, and at the end user\'s choice, share that information with the
+        Service. The service removes all identifiable information such as email address from the sharer. The shared digital signatures are merged with an anonymous, aggregate, or de-identified
+        data set before it is processed and published in a database for other end users.\n\nHOW PRIVATETRAC WORKS\n\nTimestamped location is always one-way hashed into a string that serves as the digital
+        signature of that particular time-space before it is stored. The "one-way" means that it\'s nearly impossible to derive the original text from the string, thus making it nearly
+        impossible to reverse the original time-space from the digital signature. The app enables anonymous sharing of these digital signatures of users who want to share. The end-user can download
+        the shared data to compare with locally stored digital signatures of location history to discover overlaps with any end user who decided to share.  The only information can be derived
+        for end-user is how many overlaps the device had with the data signatures in the library.  No information about who, where, or how long each overlap lasts can be gained.
+        \n\nUSER RESPONSIBILITIES\n\nPrivateTrac GPS is designed to facilitate anonymous sharing of digital signatures of location history. As such, it is imperative that you: (i)
+        comply with our terms of use; (ii) provide accurate information (including location data) when using the app; and (iii) make informed decisions about how you use PrivateTrac
+        including your decision to share any digital signatures of location history.\n\nPERSONAL INFORMATION WE COLLECT\n\nInformation you provide to us.\nThe personal information you provide
+        to us through PrivateTrac GPS or otherwise may include:\n     •Digital signatures of location information, such as one way hashed strings of historical precise
+        geolocation information. If you provide permission, PrivateTrac GPS may use your device\'s GPS signals to determine your location, and one way hashed
+        strings to this information is stored on your phone. You choose whether to share these hashed strings and can always revoke our access to your location data in
+        your device settings. However, potential location overlap with other users are not recorded without
+        access to your location.\n\nHOW WE USE YOUR PERSONAL INFORMATION\n\nWe may use your personal information
+        for the following purposes and as otherwise described in this Privacy Policy or at the time of collection:\nTo operate the Service. We may use your personal information to:\n
+        •if you share digital signatures with us, the shared digital signatures are merged into an anonymous, aggregated, or de-identified data set to publish to other end users.
+        Once that is done, all personal information including your email address is immediately deleted.\n
+        •if you contacted us, we may use your email address to respond to your requests, questions, and feedback.\nTo comply with the law. We may use your personal information as we believe necessary or appropriate to comply with applicable laws,
+        lawful requests, and legal processes, such as to respond to subpoenas or requests from government authorities.\nFor compliance, fraud prevention, and safety. We may use your personal
+        information and disclose it to law enforcement, government authorities, and private parties as we believe necessary or appropriate to: (a) protect our, your or others\' rights, privacy,
+        safety or property (including by making and defending legal claims); (b) enforce the terms and conditions that govern the app; and (c) protect, investigate and deter against fraudulent,
+        harmful, unauthorized, unethical or illegal activity.\nTo create anonymous, aggregated, or de-identified data. We may create anonymous, aggregated, or de-identified data
+        from your shared digital signatures of location history and other individuals\' digital signatures. We make personal information into anonymous, aggregated, or de-identified
+        data by removing information that makes the data personally identifiable to you. We may use this anonymous, aggregated, or de-identified data and share it with third parties, our Partners,
+        or others for our lawful business purposes.\n
+        With your consent. In some cases, we may specifically ask for your consent to collect, use, or share your personal information, such as when required by law.\n\nHOW WE SHARE YOUR PERSONAL
+        INFORMATION\n\nWe use digital signatures of the location history you share with us to create anonymous, aggregated, or de-identified data. We only share the final anonymous, aggregated, or de-identified data with third parties.
+        Other Private GPS Users. We will alert users who were within nearby proximity of a sharing user during the preceding 7 days. While this information does not directly identify you,
+        there are circumstances when a user could identify you if the user only meets very few people during these days. For example, this may occur if a user met you and others that the
+        user can be certain others did not share their digital signatures during the 7 days.\nProfessional advisors. If you contact us other than to share digital
+        signatures of your location history, we may disclose your personal information in those contacts to professional advisors, such as lawyers, auditors, and insurers, where necessary in the course of the professional services that they render to us.
+        For compliance, fraud prevention and safety. We may share your personal information for the compliance, fraud prevention and safety purposes described above. We will not proactively share your
+        personal information with the government without your consent.\nBusiness transfers. We may sell, transfer or otherwise share some or all of
+        our business or assets, in connection with a business transaction (or potential business transaction) such as a merger, consolidation, acquisition, reorganization or sale of assets, or in
+        the event of bankruptcy or dissolution.\n\nYOUR CHOICES\n\nIn this section, we describe the rights and choices available to all users. Your use of the PrivateTrac GPS is voluntary. You can
+        request you shared digital signatures removed by sending those digital signatures again and an instruction to remove as the title. After 7 days, all information is deleted.
+        Privacy settings and location data. We make available certain privacy settings on the app, including options to control your sharing of digital signatures of your location history.
+        Users of our mobile application also have the choice of whether to allow us to access your precise location data. After you allow access, you have the choice when
+        to track your location history and when to stop. You also have the option to delete all the data we collected on your phone completely. Your device settings may provide the ability
+        for you to revoke our ability to access location data. PrivateTrac GPS will not function as a means for detecting location overlap and information sharing if you do not allow access to your location data.
+        Do Not Track. Some Internet browsers may be configured to send "Do Not Track" signals to the online services that you visit. We currently do not respond to "Do Not Track" or similar signals.
+        To find out more about "Do Not Track," please visit http://www.allaboutdnt.com.\nChoosing not to share your personal information. Where we are required by law to collect your personal
+        information, or where we need your personal information in order to provide the Service to you, if you do not provide this information when requested (or you later ask to delete it), we may not
+        be able to provide you with our services. We will tell you what information you must provide to receive our Service by designating it as required at the time of collection or through other
+        appropriate means.\n\nOTHER SITES, MOBILE APPLICATION, AND SERVICES\n\nThe apps may contain links to other websites, mobile applications, and other online services operated by third parties.
+        These links are not an endorsement of, or representation that we are affiliated with, any third party. In addition, our content may be included on web pages or in mobile applications or online
+        services that are not associated with us. We do not control third-party websites, mobile applications, or online services, and we are not responsible for their actions. Other websites and services
+        follow different rules regarding the collection, use, and sharing of your personal information. We encourage you to read the privacy policies of the other websites and mobile applications and online
+        services you use.\n\nSECURITY PRACTICES\n\nThe security of your personal information is important to us. We employ a number of organizational, technical and physical safeguards designed to protect
+        the personal information we collect. However, the security risk is inherent in all internet and information technologies, and we cannot guarantee the security of your personal information.\n
+        \n\nINTERNATIONAL DATA TRANSFERS\n\nWe are headquartered in the United States and currently have no service providers in other countries.
+        Your personal information remains in the United States.\n\nCHILDREN\n\nAs a general rule, children under the age of 12 years old are not allowed to use the app, and we do not collect personal
+        information from them. We encourage parents with concerns to contact us. Children between 12 and 16 years old must have their parent\'s permission to use this app.
+        \n\nCHANGES TO THIS PRIVACY POLICY\n\nWe
+        reserve the right to modify this Privacy Policy at any time. If we make material
+        changes to this Privacy Policy, we will notify you by updating the date of this Privacy Policy and posting it on a new version of the app.\nAny modifications to this Privacy Policy will be
+        effective upon our posting the new terms and/or upon implementation of the new changes on the app (or as otherwise indicated at the time of posting). In all cases, your continued use of the
+        app after the posting of any modified Privacy Policy indicates your acceptance of the terms of the modified Privacy Policy.\n\nHOW TO CONTACT US\n\nPlease direct any questions or comments about
+        this Policy or privacy practices to sixfeetapp2020@gmail.com.\n\n\n\n\n\n\n</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="infos_array">
+        <item>About</item>
+        <item>Privacy Policy</item>
+        <item>Data Privacy Explanation</item>
+    </string-array>
+    <string-array name="groups">
+        <item>GroupA</item>
+        <item>GroupB</item>
+        <item>GroupC</item>
+    </string-array>
+</resources>
