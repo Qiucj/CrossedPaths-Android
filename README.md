@@ -14,6 +14,8 @@ A Decentralized COVID-19 Exposure Notification App for Android Devices
 - Users can join organizations in the app so their locations are only recorded when in the organization's established boundaries.  
 
 ## Graphics
+![Image of App]
+(https://github.com/Qiucj/CrossedPaths-Android/blob/master/Screen%20Shot%202021-06-08%20at%204.34.33%20PM.png)
 ## Author
 Caleb Qiu -
 qiu0147@gmail.com
