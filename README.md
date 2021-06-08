@@ -1,7 +1,7 @@
 # CrossedPaths-Android
 A Decentralized COVID-19 Exposure Notification App for Android Devices
 ## Description
-- Users can activate CrossedPaths to track their time-stamped location.     
+- Users can activate CrossedPaths to track their time-stamped locations.     
 
 - Each time-stamped location is recorded and stored as an irreversible digital token.   
 
