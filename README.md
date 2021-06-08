@@ -11,7 +11,7 @@ A Decentralized COVID-19 Exposure Notification App for Android Devices
 
 -Location collection and the sending of digital tokens is completely voluntary.   
 
--Users can join specific organizations on the app such that their time-stamped locations are only recorded when in the established  boundaries of the location.   
+-Users can join specific organizations on the app so their time-stamped locations are only recorded when in the organization's established boundaries.   
 ## Author
 Caleb Qiu -
 qiu0147@gmail.com
