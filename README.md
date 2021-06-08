@@ -1,5 +1,5 @@
 # CrossedPaths-Android
-A Decentralized COVID-19 Exposure Notification App for Android Devices
+A Decentralized COVID-19 Exposure Notification App for Android Devices \n
 l
 ## Description
 ## Author
